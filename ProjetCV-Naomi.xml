@@ -4,8 +4,8 @@
         <nom>Naomi Packard</nom>   
         <metier> Consultante junior AMOA GED </metier>
         <city> Bezons</city>
-        <mobility>Permis B, Île le de france </mobility>
-    </presentation> 
+        <mobility>Permis B, Île le de france </mobility>  
+    </presentation>  
     <contact> 
         <telephone></telephone>  
         <mail>naomi.kodjo@gmail.com</mail> 
@@ -22,7 +22,7 @@
                     </language> 
                     <bases>
                      Matériaux Corrosion – Traitement revêtements de surface-Livre multimédia de la corrosion 
-          <>          </bases>
+                    </bases>
                     <systemes>	
                     SharePoint, Modélio, visual studio, Msproject, gotomeeting
                     </systemes>  
@@ -152,6 +152,7 @@
                           <task>
                            Structuration des termes 
                           </task>
+                          <task>
                           Participation à l’implémentation sur le moteur de recherche
                           </task>
                        </tasks> 
