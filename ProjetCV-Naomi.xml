@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>  
+<cv> 
+    <presentation>  
+        <nom>Naomi Packard</nom>   
+        <metier> Consultante junior AMOA GED </metier>
+        <city> Bezons</city>
+        <mobility>Permis B, Île le de france </mobility>
+    </presentation> 
+    <contact> 
+        <telephone></telephone>  
+        <mail>naomi.kodjo@gmail.com</mail> 
+    </contact> 
+    <experiencesPro>
+          <experience> 
+                <area>Energie</area>
+                <enterprise>Total</enterprise>
+                <title> AMOA-MOE GED </title> 
+                <date>2016/2017 (1an) </date> 
+                <technicalenvironment> 
+                    <language>
+                     WEB  HTML, CSS, Javascrit SGBD : SQL 
+                    </language> 
+                    <bases>
+                     Matériaux Corrosion – Traitement revêtements de surface-Livre multimédia de la corrosion 
+          <>          </bases>
+                    <systemes>	
+                    SharePoint, Modélio, visual studio, Msproject, gotomeeting
+                    </systemes>  
+                </technicalenvironment>
+                <context>
+                <resume>
+                Le projet s’insère dans les nouvelles ambitions du groupe à horizons 20 ans qui promeut la collaboration et les interactions interbranches. Dans, ce contexte le Comité Technologique Groupe (CTG) a ajouté à ses objectifs, la convergence des spécifications techniques et la refonte de ses applications transverses notamment les bases de données matériaux-corrosion.  Le projet de mutualisation  de ces bases avait pour objectif la mise à disposition des utilisateurs une solution pérenne couvrant de façon rationalisée et optimisé les fonctionnalités des bases de connaissances existantes.  
+                Les parties prenantes des projets sont subdivisées en 4 parties : 1) les commanditaires (CTG) représentant le client ; 2) Le groupe d’intérêt (utilisateurs et usagers) provenant de toutes les branches du groupe ; 3) La direction des systèmes d’information Holding partenaire IT des divisions métiers couvrant les applications et répondant aux besoins des directions métiers de la Holding ; 4) le professionnel Info-doc me désignant, en charge de la réalisation du projet. 
+                </resume>  
+                <realization>
+                   <activity> 
+                     <activityName>Etude préalable du projet</activityName>
+                     <tasks> 
+                       <task> 
+                       Lancement projet  
+                       </task>  
+                        <task>
+                         Analyse de l’existant (Etudes fonctionnelles des bases, familiarisation des notions et concepts métiers) /
+                         </task> 
+                         <task>
+                        Recueil des besoins (Rédaction des besoins fonctionnels, enquête utilisateurs) 
+                         </task> 
+                         <task>
+                         Réflexion sur les outils digitaux (Brainstorming, Etudes de la palette d’outils digitaux  avec l’aide de la DSIH) 
+                         </task>
+                      </tasks>
+                   </activity>  
+                   <activity> 
+                     <activityName> Extraction des datas </activityName>
+                     <tasks>
+                         <task>
+                          Acquisition des documents 
+                         </task>   
+                         <task>
+                         Requête Sql (Extraction des REX, curation des données)  
+                         </task>
+                     </tasks>
+                   </activity>  
+                   <activity> 
+                     <activityName> Création d’une base des connaissances sur SharePoint </activityName>                 
+                     <tasks>  
+                        <task>
+                        Classement des documents REX (définition de plan de classement, définition de critère de nommage) 
+                        </task> 
+                        <task>
+                         Création wiki d’entreprise (Création de site wiki sur SharePoint 2013) 
+                         </task>
+                      </tasks>
+                     </activity> 
+                     <activity> 
+                     <activityName> Pilotage et gestion du projet</activityName> 
+                     <tasks> 
+                       <task>           
+                       Organisation des réunions 
+                       </task> 
+                       <task>
+	                   Animation des groupes de travail 
+                       </task> 
+                       <task>
+                       Rédaction des livrables (cahiers de charges, compte rendu des réunions, guide d’utilisation du site SharePoint. 
+                       </task>
+                    </tasks>
+                    </activity>
+                </realization>
+            </context>   
+            <review>
+                Travaillant en mode projet avec une grande marche de manœuvre, cette expérience m’a permise d’avoir une vue et sur l’ensemble des phases liées à la transformation et au changement digital. Mais ce que je retiens le plus de cette expérience, est l’aspect humain (rencontres, échanges) qui représente pour la clé de la réussite dans tout projet de transformation digital.
+            </review> 
+         </experience>
+         <experience> 
+               <area>Energie</area> 
+               <enterprise> TOTAL </enterprise>
+               <title> Documentaliste </title> 
+               <date>2016 (6mois) </date>
+                <technicalenvironment> 
+                    <language>
+                     XML 
+                    </language> 
+                    <systemes>	
+                    Gestionnaire thésaurus, Sinequa,Excel? SharePoint
+                    </systemes>  
+                </technicalenvironment>
+               <context>
+                <resume> 
+                Dans l’objectif de valoriser la connaissance et de la rendre plus facilement accessible, le CTG a lancé le projet d’indexation de son référentiel documentaire. Ce référentielregroupe les spécifications des documents d’organisations et les documents techniques créés par différentes branches. Pour ce faire, ces documents ont dû être transférés sur SharePoint en vue de permettre leur indexation. Les parties prenantes de ce projet étaient, le Comité Technologie Groupe, le fournisseur du moteur de recherche et la DSI. Mes missions dans ce projet étaient le transfère des documents vers le nouveau support et la création d’un thésaurus pour l’optimisation du moteur de recherche.
+                </resume> 
+                <realization>
+                    <activity> 
+                      <activityName> Vérification des identifiants des documents</activityName>
+                      <tasks> 
+                        <task>
+                         Extraction des identifiants  
+                        </task> 
+                         <task>
+                         Développement code d’extraction sous clou9. 
+                         </task>
+                      </tasks> 
+                     </activity>  
+                     <activity>
+                       <activityName>Vérification selon le nouveau standard</activityName> 
+                       <tasks>  
+                          <task>
+                           Développement de macro VBA  
+                          </task>  
+                          <task>
+                         Création de tableau Excel   
+                          </task>
+                       </tasks> 
+                    </activity>
+                     <activity>
+                       <activityName>Importation des documents sur SharePoint</activityName> 
+                       <tasks> 
+                         <task>
+                          Participation à la création des sites et des sous-sites.  
+                         </task>  
+                         <task>
+                          Création des bibliothèques de documents 
+                         </task>
+                       </tasks> 
+                    </activity>   
+                    <activity>
+                       <activityName>Création du thésaurus </activityName> 
+                       <tasks> 
+                         <task>   
+                          Collecte du vocabulaire auprès des métiers et experts
+                          </task> 
+                          <task>
+                           Structuration des termes 
+                          </task>
+                          Participation à l’implémentation sur le moteur de recherche
+                          </task>
+                       </tasks> 
+                    </activity>
+                  </realization>
+                </context>   
+                <review>
+                j’ai gagné grâce à cette mission en compétences techniques et en professionnalisme. J’ai eu l’opportunité de travailler dans un contexte d’entreprise élargie et internationale.
+                </review> 
+         </experience>
+    </experiencesPro> 
+</cv>
+
+
